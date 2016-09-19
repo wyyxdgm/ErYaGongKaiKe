@@ -2,7 +2,7 @@
 
 ## 使用简介
 	本程序主要通过Java实现鼠标点击循环切换所配置的频道。
-	使用中设计两个配置文件。
+	使用中涉及两个主要配置文件data/channel.txt和data/positions.txt。
 
 ### data/channel.txt使用方法举例：
 
