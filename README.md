@@ -4,16 +4,16 @@
 	使用中设计两个配置文件。
 ###data/channel.txt使用方法举例：
 1.选修了4门课程，要4门按顺序循环播放可以配置如下:
-	data/channel.txt:
-	1
-	2
-	3
-	4
+		data/channel.txt:
+		1
+		2
+		3
+		4
 2.选修了4门课程，要其中1，2,4门按逆序循环播放可以配置如下:
-	data/channel.txt:
-	4
-	2
-	1
+		data/channel.txt:
+		4
+		2
+		1
 ###data/positions.txt配置分辨率和鼠标目标位置.
 下边以360浏览器为例：<br>
 1、电脑屏幕分辨率：1366*768（不要此分辨率就改positions.txt）<br>
