@@ -6,14 +6,14 @@
 
 ### data/channel.txt使用方法举例：
 
-* 选修了4门课程，要4门按顺序循环播放可以配置如下:<br>
-data/channel.txt:<br>
+* 选修了4门课程，要4门按顺序循环播放可以配置data/channel.txt如下:<br>
+
 1<br>
 2<br>
 3<br>
 4<br>
-* 选修了4门课程，要其中1，2,4门按逆序循环播放可以配置如下:<br>
-data/channel.txt:<br>
+* 选修了4门课程，要其中1，2,4门按逆序循环播放可以配置data/channel.txt如下:<br>
+
 4<br>
 2<br>
 1<br>
