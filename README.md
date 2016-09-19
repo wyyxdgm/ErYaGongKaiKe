@@ -7,14 +7,14 @@
 ### data/channel.txt使用方法举例：
 
 #### * 选修了4门课程，要4门按顺序循环播放可以配置data/channel.txt如下:
-	1<br>
-	2<br>
-	3<br>
-	4<br>
+	1
+	2
+	3
+	4
 #### * 选修了4门课程，要其中1，2,4门按逆序循环播放可以配置data/channel.txt如下:
-	4<br>
-	2<br>
-	1<br>
+	4
+	2
+	1
 
 ### data/positions.txt配置分辨率和鼠标目标位置.
 下边以360浏览器为例：<br>
