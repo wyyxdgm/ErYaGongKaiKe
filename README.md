@@ -1,8 +1,11 @@
-##ErYaGongKaiKe说明
-##使用简介
+## ErYaGongKaiKe说明
+
+## 使用简介
 	本程序主要通过Java实现鼠标点击循环切换所配置的频道。
 	使用中设计两个配置文件。
-###data/channel.txt使用方法举例：
+
+### data/channel.txt使用方法举例：
+
 * 选修了4门课程，要4门按顺序循环播放可以配置如下:
 data/channel.txt:<br>
 1<br>
@@ -14,7 +17,8 @@ data/channel.txt:
 4<br>
 2<br>
 1<br>
-###data/positions.txt配置分辨率和鼠标目标位置.
+
+### data/positions.txt配置分辨率和鼠标目标位置.
 下边以360浏览器为例：<br>
 1、电脑屏幕分辨率：1366*768（不要此分辨率就改positions.txt）<br>
 2、打开浏览器(360)全屏显示(不是360，改positions.txt)<br>
